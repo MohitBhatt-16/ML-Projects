@@ -1,0 +1,1 @@
+This project tries to predict whether there is a submarine or rock below a submarine using radar data

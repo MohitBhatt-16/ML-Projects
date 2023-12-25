@@ -1,0 +1,1 @@
+This project predicts whether a person has diabeted or not using different test values
