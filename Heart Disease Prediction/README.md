@@ -1,0 +1,1 @@
+This model predict heart diseases and can be helpfull for doctors and patients in early prediction of heart attack.
